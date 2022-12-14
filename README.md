@@ -20,11 +20,11 @@ In This Website You Can Buy women clothing - dresses, tops, loungewear, bottoms,
 * Payment
 
 ## Authors
-
+- [priyo.das.0607@gmail.com](https://github.com/priyodas1997)
 - [rohitsingh17031995@gmail.com](https://github.com/Rohit24-code)
 - [sshinde642@gmail.com](https://github.com/sudarshan1309)
 - [sahizahidi@gmail.com](https://github.com/SahiZahidi)
-- [priyo.das.0607@gmail.com](https://github.com/priyodas1997)
+
 
 ## Contributing
 
